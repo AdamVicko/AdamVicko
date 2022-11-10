@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamVicko
 - 👀 I’m interested in ... finding the job in IT-sector
-- 🌱 I’m currently learning ... JS :)
+- 🌱 I’m currently learning ... PHP programming language
 - 💞️ I’m looking to collaborate on ... everything
 - 📫 How to reach me ... www.linkedin.com/in/adamvicko
 
