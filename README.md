@@ -14,7 +14,7 @@
 
 - :zap: Im currently learning PHP(Hypertext Preprocessor) scripting language at <a href="https://www.edunova.hr/">Edunova</a> .
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adamvicko/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VICKO-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adamvicko/)
 
 ---
 
