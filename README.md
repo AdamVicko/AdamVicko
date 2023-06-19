@@ -28,7 +28,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="40" height="40"/>&nbsp;
 
 ---
-
+Check my Main projects repositories Warevic and LugiBikes! :) 
+Open for suggestions and questions :)
 
 <!---
 AdamVicko/AdamVicko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
