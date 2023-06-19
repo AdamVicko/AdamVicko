@@ -28,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="40" height="40"/>&nbsp;
 
 ---
-Check my Main projects repositories Warevic and LugiBikes! :) 
+Check my Main projects repositories Warevic and LugiBikes! :) <br> 
 Open for suggestions and questions :)
 
 <!---
